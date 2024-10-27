@@ -1,0 +1,30 @@
+{
+    "Admin": [
+      {
+        "name": "Daniel",
+        "email": "daniel@example.com",
+        "password": "12345678"
+      },
+      {
+        "name": "Mike",
+        "email": "mike@example.com",
+        "password": "password123"
+      },
+      {
+        "name": "Alice",
+        "email": "alice@example.com",
+        "password": "alicepass"
+      },
+      {
+        "name": "John",
+        "email": "john.doe@example.com",
+        "password": "johndoe123"
+      },
+      {
+        "name": "Sophia",
+        "email": "sophia@example.com",
+        "password": "sophia2024"
+      }
+    ]
+  }
+  
